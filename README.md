@@ -47,5 +47,8 @@ Your health is summarized into a **Wellness Score (/100)** based on activity, sl
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/nutrizen.git
+git clone https://github.com/KirtiJha-06/nutrizen.git
 cd nutrizen
+
+**##🤝 Contributions**
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
