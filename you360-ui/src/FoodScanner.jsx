@@ -8,8 +8,6 @@ const App = () => {
   const [error, setError] = useState(null);
 
   // Function to convert file to base64
-  const apiKey = import.meta.env.VITE_GEMINI_KEY;
-
   const fileToBase64 = (file) => {
     return new Promise((resolve, reject) => {
       const reader = new FileReader();
@@ -82,7 +80,7 @@ const App = () => {
         }
     };
 
-    const apiKey = "process.env.VITE_GEMINI_API_KEY"; 
+    const apiKey = "AIzaSyBEDJs1kKzRwHV34mviEWXf6KI_sn7CViE"; 
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
     let retries = 0;
