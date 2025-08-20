@@ -6,6 +6,8 @@ const App = () => {
   const [lastRecipe, setLastRecipe] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+  const apiKey = import.meta.env.VITE_GEMINI_KEY;
+
 
   // Load last recipe from localStorage on component mount
   useEffect(() => {
@@ -48,7 +50,7 @@ const App = () => {
           }
         }
       };
-      const apiKey = "AIzaSyBEDJs1kKzRwHV34mviEWXf6KI_sn7CViE";
+      const apiKey = "process.env.VITE_GEMINI_API_KEY";
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
       const response = await fetch(apiUrl, {
