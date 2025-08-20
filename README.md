@@ -39,6 +39,9 @@ Your health is summarized into a **Wellness Score (/100)** based on activity, sl
 - **Deployment:** Vercel  
 
 ---
+## 🎥 Demo Video  
+
+[![Watch the video](./images/demo-thumbnail.png)](https://drive.google.com/file/d/1pAAciTghbAUMLHr46LmYgUkpmNTGCzl9/view?usp=drive_link)
 
 ## ⚙️ Installation  
 
