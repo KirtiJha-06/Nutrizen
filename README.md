@@ -28,7 +28,7 @@ Your health is summarized into a **Wellness Score (/100)** based on activity, sl
 ## 🖼️ UI Preview
 
 ### Dashboard  
-![Dashboard](./images/dashboard.png)  
+![Dashboard](./dashboard.png)  
 ---
 
 ## 🚀 Tech Stack  
