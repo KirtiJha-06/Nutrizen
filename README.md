@@ -25,19 +25,10 @@ Your health is summarized into a **Wellness Score (/100)** based on activity, sl
 
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ UI Preview
 
 ### Dashboard  
 ![Dashboard](./images/dashboard.png)  
-
-### Food Scanner  
-![Food Scanner](./images/food-scanner.png)  
-
-### Recipe Generator  
-![Recipe Generator](./images/recipe.png)  
-
-*(Add more screenshots if you have)*  
-
 ---
 
 ## 🚀 Tech Stack  
