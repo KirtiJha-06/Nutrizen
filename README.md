@@ -50,5 +50,4 @@ Clone the repository:
 git clone https://github.com/KirtiJha-06/nutrizen.git
 cd nutrizen
 
-**##🤝 Contributions**
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+---
