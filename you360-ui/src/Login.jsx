@@ -12,7 +12,7 @@ const Login = ({ onLoginSuccess }) => {
     try {
       const endpoint = isSignup ? "/api/auth/signup" : "/api/auth/login";
 
-      const res = await fetch(`http://localhost:5000${endpoint}`, {
+      const res = await fetch(`https://nutrizen-07xj.onrender.com${endpoint}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(isSignup ? { name, email, password } : { email, password })
