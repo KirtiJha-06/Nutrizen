@@ -33,10 +33,11 @@ Your health is summarized into a **Wellness Score (/100)** based on activity, sl
 
 ## 🚀 Tech Stack  
 
-- **Frontend:** React (Vite)  
+- **Frontend:** React (Vite)
+- **Backend:** Nodejs , Expressjs , MongoDB 
 - **UI Framework:** TailwindCSS  
 - **AI / Backend:** Custom AI models & APIs  
-- **Deployment:** Vercel  
+- **Deployment:** Vercel , Render 
 
 ---
 ## 🎥 Demo Video  
