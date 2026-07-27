@@ -48,7 +48,7 @@ const App = () => {
           }
         }
       };
-      const apiKey = "AIzaSyBEDJs1kKzRwHV34mviEWXf6KI_sn7CViE";
+      const apiKey = "AAQ.Ab8RN6In17Wbu9JmVoFSdiCvsInBgcq0C6DTGQP7KrvgjQTmHw";
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
       const response = await fetch(apiUrl, {
