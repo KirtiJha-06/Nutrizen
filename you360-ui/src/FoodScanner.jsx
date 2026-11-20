@@ -80,7 +80,7 @@ const App = () => {
         }
     };
 
-    const apiKey = "AIzaSyBEDJs1kKzRwHV34mviEWXf6KI_sn7CViE"; 
+    const apiKey = "AQ.Ab8RN6IVm9Wmb-AWLkvjosy2JVS2mHeMgkuyY6J7AMAfGSGMZA"; 
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
     let retries = 0;
